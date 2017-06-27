@@ -6,3 +6,5 @@ This is second version of my customize of MathJax plugin. There are lot of Tex p
 http://s1.ckeditor.com/sites/default/files/styles/large/public/mathjax/ckeditor-mathjax-dialog.png?itok=VzrGKXI1
 
 full source : https://github.com/ckeditor/ckeditor-dev/tree/master/plugins/mathjax
+
+ScreenShot:
