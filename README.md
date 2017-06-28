@@ -1,7 +1,5 @@
 # CKeditorMathJaxPlugin
-visual button help for writing Tex on ckeditor - MathJax plugin
-
-This is second version of my customize of MathJax plugin. There are lot of Tex plugin available. 
+buttons help for writing Tex on ckeditor - MathJax plugin 
 
 http://s1.ckeditor.com/sites/default/files/styles/large/public/mathjax/ckeditor-mathjax-dialog.png?itok=VzrGKXI1
 
